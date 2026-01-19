@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# allow lib folder
+!lib/
+!lib/**
+
+# allow git config files
+!.gitignore
+!README.md
